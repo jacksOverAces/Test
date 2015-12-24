@@ -4,6 +4,7 @@
 class Test {
 
  private:
+  int one;
 
  public:
 

@@ -8,6 +8,8 @@ class Test {
   int two;
 
  public:
+  Test();
+  Test(int, int);
 
 };
 

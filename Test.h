@@ -5,6 +5,7 @@ class Test {
 
  private:
   int one;
+  int two;
 
  public:
 

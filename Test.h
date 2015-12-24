@@ -10,6 +10,7 @@ class Test {
  public:
   Test();
   Test(int, int);
+  int getOne() const;
 
 };
 

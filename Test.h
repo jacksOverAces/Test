@@ -14,6 +14,8 @@ class Test {
   int getOne() const;
   int getTwo() const;
 
+  // setter methods...
+
 };
 
 #endif

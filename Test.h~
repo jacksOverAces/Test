@@ -4,8 +4,13 @@
 class Test {
 
  private:
+  int one;
+  int two;
 
  public:
+  Test();
+  int getOne() const;
+  int getTwo() const;
 
 };
 
